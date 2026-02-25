@@ -42,8 +42,11 @@ Switzerland 🇨🇭
 ---
 
 ## 📊 GitHub Analytics
-https://github-readme-stats.vercel.app/api?username=FionnLaesser
 
+<p align="center">
+  <img height="170" src="https://github-readme-stats-lac-seven-12.vercel.app/api?username=FionnLaesser&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats-lac-seven-12.vercel.app/api/top-langs/?username=FionnLaesser&layout=compact&theme=github_dark&hide_border=true" />
+</p>
 ---
 
 ## 🔥 Current Projects
