@@ -1,6 +1,6 @@
-<div align="center" style="background: linear-gradient(135deg, #1e3a8a, #2563eb); padding: 40px; border-radius: 20px; color: white;">
+<div align="center">
 
-<h1>🚀 Hi, I'm Fionn Lässer</h1>
+# 🚀 Hi, I'm Fionn Lässer
 
 Backend Developer | Edugame Creator | Entrepreneur  
 Switzerland 🇨🇭
@@ -12,10 +12,10 @@ Switzerland 🇨🇭
 ## 🧠 About Me
 
 - 🎮 Developing modern multiplayer Edugames  
-- ⚙️ Building REST APIs with Spring Boot  
-- 🐳 Working with Docker & MySQL  
-- 🛒 Running Shopify & Print-on-Demand projects  
-- 💪 Sporty & disciplined  
+- ⚙️ Building scalable REST APIs with Spring Boot  
+- 🐳 Working with Docker, MySQL & MongoDB  
+- 🛒 Building Shopify & Print-on-Demand Businesses  
+- 💪 Sporty & disciplined mindset  
 
 ---
 
@@ -41,34 +41,37 @@ Switzerland 🇨🇭
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-![Fionn's GitHub stats](https://github-readme-stats.vercel.app/api?username=FionnLaesser&show_icons=true&theme=tokyonight)
+<div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FionnLaesser&layout=compact&theme=tokyonight)
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=FionnLaesser&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FionnLaesser&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
 ## 🔥 Current Projects
 
-- 🎮 Multiplayer Edugame (3D concept)
-- ⚔️ "Alen vs Anonym" Game
-- 🏗 Spring Boot Game Backend
-- 🛍 E-Commerce / Dropshipping Store
+- 🎮 3D Multiplayer Edugame  
+- ⚔️ **Alen vs Anonym**  
+- 🏗 Spring Boot Game Backend  
+- 🛍 E-Commerce / Dropshipping Store  
 
 ---
 
 ## 📈 Goals 2026
 
-- Master Spring Security
-- Build production-ready backend architecture
-- Scale an online business
-- Level up in DevOps & Clean Architecture
+- 🔐 Master Spring Security  
+- 🏛 Build production-ready backend architecture  
+- 📦 Scale a profitable online business  
+- ⚡ Level up in DevOps & Clean Architecture  
 
 ---
 
 <div align="center">
 
-### ⚡ "Discipline > Motivation"
+### ⚡ Discipline > Motivation
 
 </div>
